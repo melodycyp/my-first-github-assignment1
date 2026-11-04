@@ -1,0 +1,9 @@
+DCIT323 LAB 1
+
+Git commands used in this assignment:
+
+1. git clone - Copies a remote repository to a local computer.
+2. git status - Checks the status of the working directory.
+3. git add . - Stages changes.
+4. git commit - Saves changes to the local repository.
+5. git push origin main - Uploads commits to GitHub.
